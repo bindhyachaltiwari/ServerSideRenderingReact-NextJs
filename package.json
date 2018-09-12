@@ -1,0 +1,27 @@
+{
+  "name": "employee profile",
+  "version": "1.0.0",
+  "description": "Server-side Rendering React and NextJS",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Bindhyachal Tiwari",
+  "license": "1.0",
+  "dependencies": {
+    "es6-promise": "4.1.1",
+    "isomorphic-unfetch": "2.0.0",
+    "next": "^6.1.2",
+    "next-redux-saga": "3.0.0-beta.1",
+    "next-redux-wrapper": "2.0.0-beta.6",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-redux": "5.0.7",
+    "redux": "4.0.0",
+    "redux-saga": "0.16.0"
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "2.13.2"
+  }
+}
